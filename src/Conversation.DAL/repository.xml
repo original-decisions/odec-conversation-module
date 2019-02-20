@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<objects>
+  <object id="ConversationRepository" name="ConversationRepository"
+      type="odec.Conversation.DAL.ConversationRepository, odec.Conversation.DAL">
+  </object>
+</objects>

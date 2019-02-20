@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+  <object id="ConversationContext" name="ConversationContext"
+      type="odec.Server.Model.Conversation.Contexts.ConversationContext, odec.Server.Model.Conversation" singleton="true">
+  </object>
+</objects>
